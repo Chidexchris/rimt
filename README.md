@@ -8,7 +8,7 @@
 
 # Local Installation
 
-- run `` git clone https://github.com/FahimAnzamDip/triangle-pos.git ``
+- run `` git clone https://github.com/Chidexchris/rimt.git ``
 - run ``composer install `` 
 - run `` npm install ``
 - run ``npm run dev``
